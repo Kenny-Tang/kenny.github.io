@@ -15,8 +15,6 @@ build_script:
 
 artifacts:
   - path: public
-  
-build: off
 
 on_success:
   - git config --global credential.helper store
