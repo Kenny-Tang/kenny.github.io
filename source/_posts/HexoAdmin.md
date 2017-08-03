@@ -16,4 +16,4 @@ $ npm install hexo-admin
 然后在浏览器中键入网址 http://localhost:4000/admin/ 就可以在线进行编辑了。
 
 效果如下
-![](hexo-admin-preview.png)
+![](/2017/01/03/HexoAdmin/hexo-admin-preview.png)
