@@ -16,9 +16,8 @@ Windows-->Web-->JSP Files   在右侧版面中，选择Encoding 为UTF-8
 ![](/images/1.png)
 
 关于在项目中使用tab还是使用空格，都有自己的喜好，我自己更倾向于使用空格，起源于之前在一个Android项目，使用tab出现无法正确的对齐的情况，导致界面出现错乱。各种编译器，平台对tab的支持可能是不相同的，这就可能导致不同的结果，但是无论那种平台对space的支持肯定是一致的。因此建议使用space代替tab进行操作。
-![](/images/3.png)
 之前在kepler中使用的是如上的配置，后来升级了一下版本，现在使用的是Luna使用如上的设置，发现不管用了。于是又细心的找了一下。
-![](/images/4.png)
+![](/images/3.png)
 修改Eclipse的启动配置
 
 eclipse.ini
@@ -62,9 +61,9 @@ openFile
 年老带堆内存	对象在被真正会回收之前会先放在这里
 持久带堆内存	class文件，元数据等放在这里
 　关闭Preferences中Validation
-![](/images/5.png)
+![](/images/4.png)
 这些校验在使用Eclipse进行开发的过程中并没有感受到其带来的便利，但是使用这些功能会消耗eclipse的内存。所以还是关了吧。Disble All 然后确定。
-![](/images/6.png)
+![](/images/5.png)
 
 关闭即时编译
 
