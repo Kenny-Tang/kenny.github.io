@@ -9,6 +9,7 @@ date: 2017-01-03 14:29:27
 ```
 $ cd blog
 ```
+<!-- more -->
 安装插件
 ```
 $ npm install hexo-admin

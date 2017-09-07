@@ -11,7 +11,7 @@ tags:
 [Maven](https://maven.apache.org) 的安装十分的简单，解压即安装
 笔者安装目录为 
 I:\example\
-
+<!-- more -->
 
 ![](/images/pasted-0.png)
 

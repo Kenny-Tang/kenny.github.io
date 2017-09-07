@@ -1,7 +1,10 @@
 title: SQL
 author: Kenny Tang
-date: 2017-08-21 11:12:33
 tags:
+  - SQL
+  - Oracle
+  - DELETE
+date: 2017-08-21 11:12:33
 ---
 ```
 declare 
@@ -10,6 +13,7 @@ v_sql varchar2(2000) ;
 v_cnt number  ;
 begin 
  -- 删除历史数据
+<!-- more -->
  for t in ( select regexp_substr(ts,'[^,]+', 1, level) name from dual
             connect by regexp_substr(ts, '[^,]+', 1, level) is not null) loop
     v_cnt := 1 ;

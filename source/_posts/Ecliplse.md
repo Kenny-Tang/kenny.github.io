@@ -11,7 +11,7 @@ Windows-->Preferences-->General-->Workspace 在右侧版面中，选择 Text fil
 将JSP页面的默认编码设置为UTF-8
 
 Windows-->Web-->JSP Files   在右侧版面中，选择Encoding 为UTF-8
-
+<!-- more -->
 使用 Tab 键时，默认插入空格
 ![](/images/1.png)
 
