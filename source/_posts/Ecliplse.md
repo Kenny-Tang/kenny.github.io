@@ -2,6 +2,7 @@ title: Ecliplse
 author: Kenny Tang
 date: 2017-08-04 17:13:35
 tags:
+	- JAVA
 ---
 Eclipse配置
 将整个工程的编码设置为UTF-8
