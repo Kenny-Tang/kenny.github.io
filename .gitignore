@@ -7,3 +7,4 @@ public/
 .deploy*/
 *.bak
 _admin-config.yml
+.project
